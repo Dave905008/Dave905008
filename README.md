@@ -1,6 +1,6 @@
 **Contact Information:**
 - **Email:** oghenewegbaakanie@gmail.com 
-- **Phone Number:** +2347036437613
+- **Phone Number:** +234 70 364 37613 
 - **LinkedIn Profile:** [https://www.linkedin.com/in/oghenewegba-akanie(https://www.linkedin.com/in/yourprofile) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)
 
 ---
@@ -53,8 +53,8 @@ I have been working as a barber since 2017, providing home service grooming. Thi
 ---
 
 ## Education
-- **Bachelor of Science in Cybersecurity**  
-  *University Name, Graduation Year*
+- **Bachelor of Science in Computer** 
+  *Abraka University warri delta state Nigeria*
 
 - **Coursera Certificate**  
   *Expected Completion: 2025*
