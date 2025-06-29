@@ -13,12 +13,6 @@ You can explore all my project files here:
 
 🔗 **[View All Projects](https://github.com/oghenewegbaakanie?tab=repositories)**
 
-Some highlights include:
-
-- **Web App Pentester Toolkit** – Scripts and tools for scanning and exploiting OWASP Top 10 vulnerabilities
-- **Network Recon Automation** – Bash & Python-based automated network scanning suite
-- **Cloud Secure Setup** – Hardening AWS and Azure infrastructure using automation
-
 ---
 
 ### 🧰 Tools & Technologies
